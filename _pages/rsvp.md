@@ -9,3 +9,30 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/images/banner.jpg
 ---
+
+# RSVP  
+
+<form name="rsvp" action="/success/" netlify>
+  <p>
+    <label>Guest #1 <input type="text" name="name" required/></label>
+  </p>
+  <p>
+    <label>Guest #2 (if applicable) <input type="text" name="email" /></label>
+  </p>
+    <p>
+     <label>Email <input type="email" name="email" required/></label>
+  </p>
+    <p>
+    <label for="attendance">Will you be attending?</label>
+    <select class="form-control" id="attendance">
+          <option value="yes">Yes</option>
+          <option value="no">No</option>
+    </select>  
+  </p>
+    <p>
+    <label>Questions / Comments <input type="text" name="email" /></label>
+  </p>
+  <p>
+    <button type="submit">Send</button>
+  </p>
+</form>
