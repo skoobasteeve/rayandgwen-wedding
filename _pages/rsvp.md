@@ -12,7 +12,7 @@ header:
 
 # RSVP  
 
-<form name="contact" action="/success/" netlify>
+<form name="rsvp" action="/success/" netlify>
   <p>
     <label>Guest #1 <input type="text" name="name" required/></label>
   </p>
