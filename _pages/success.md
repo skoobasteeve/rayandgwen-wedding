@@ -11,5 +11,7 @@ header:
 ---
 
 # Thanks for your RSVP!
-
 Go back [home](../index.html)
+
+
+![success](../assets/images/success.jpg){: height="800px" width="800px"}
