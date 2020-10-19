@@ -12,7 +12,10 @@ header:
 
 # RSVP  
 
-<form name="rsvp" action="/success/" netlify>
+<form name="rsvp" netlify-honeypot="bot-field" action="/success/" netlify>
+  <p class="hidden">
+    <label>Fill this out!: <input name="bot-field" /></label>
+  </p>
   <p>
     <label>Guest #1 <input type="text" name="name" required/></label>
   </p>
