@@ -22,11 +22,13 @@ excerpt: "Join us in Brooklyn, NY!"
 
 # The Bride
 {: .text-center}
-![groom](/assets/images/bride.jpg){:class="img-responsive"}{: height="300px" width="300px"}{: style="float: left; margin-right: 1em;"} 
+![bride](/assets/images/bride.jpg){:class="img-responsive"}{: height="400px" width="400px"}{: .align-center}
 
 ## Gwen Breitstein
+{: .text-center}
 <i class="fas fa-envelope"></i> Email: [glbreitstein@gmail.com](mailto:glbreitstein@gmail.com) \
 <i class="fab fa-instagram"></i> Instagram: [@thegwenb](https://www.instagram.com/thegwenb/)
+{: .text-center}
 
 {:style="clear: left"}
 
@@ -34,9 +36,11 @@ excerpt: "Join us in Brooklyn, NY!"
 
 # The Groom
 {: .text-center}
-![groom](/assets/images/groom.jpg){:class="img-responsive"}{: height="300px" width="300px"}{: style="float: left; margin-right: 1em;"} 
+![groom](/assets/images/groom.jpg){:class="img-responsive"}{: height="400px" width="400px"}{: .align-center}
 
 ## Ray Lyon
+{: .text-center}
 <i class="fas fa-envelope"></i> Email: [ray@raylyon.net](mailto:ray@raylyon.net) \
 <i class="fab fa-instagram"></i> Instagram: [@theraylyon](https://www.instagram.com/theraylyon/) \
 <i class="fas fa-rss-square"></i> Blog: [rayagainstthemachine.net](https://rayagainstthemachine.net)
+{: .text-center}
