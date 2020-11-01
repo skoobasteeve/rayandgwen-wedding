@@ -10,6 +10,9 @@ header:
   overlay_image: /assets/images/banner.jpg
 ---
 
+ [<- Home](../index.html)
+{: .text-left}
+
 # RSVP  
 
 <form name="rsvp" netlify-honeypot="bot-field" action="/success/" netlify>
