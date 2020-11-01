@@ -39,6 +39,6 @@ header:
     <label>Questions / Comments <input type="text" name="comments" /></label>
   </p>
   <p>
-    <button type="submit">Send</button>
+    <button type="submit" class="btn btn--primary">Send</button>
   </p>
 </form>
