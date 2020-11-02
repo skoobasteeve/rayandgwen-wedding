@@ -9,7 +9,7 @@ header:
   overlay_image: /assets/images/banner.jpg
 excerpt: "Join us in Brooklyn, NY!"
 intro: 
-  - excerpt: "We're so excited for everyone to join us at our wedding! You'll find links below for everything you need. If you have any questions not answered here, head over to the [contact](/contact/) page and drop us a note."
+  - excerpt: "We're so excited for everyone to join us at our wedding! You'll find links below for everything you need. If you have any questions not answered here, head over to the [**contact**](/contact/) page and drop us a note."
 feature_row:
   - image_path: assets/images/feature-image-01.jpg
     alt: "ray and gwen 01"
