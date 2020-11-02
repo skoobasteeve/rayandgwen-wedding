@@ -356,7 +356,7 @@ input[type="submit"],
   transition: $global-transition;
 }
 
-  /* white form field backgrounds */
+  /* custom - white form field backgrounds */
 
 input[type=text] {
   background-color: #ffffff;
@@ -366,6 +366,7 @@ input[type=email] {
   background-color: #ffffff;
 } 
 
+  /* custom - responsive iframe */
 
 .resp-container {
   position: relative;
