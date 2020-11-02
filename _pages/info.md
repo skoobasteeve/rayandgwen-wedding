@@ -32,7 +32,7 @@ Dinner will be served at **7:00 PM**
 {: .text-left}
 
 <div class="resp-container">
-    <p style="text-align:left"><iframe width="600" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=-73.98174047470094%2C40.65239921467547%2C-73.9488458633423%2C40.66914863217685&amp;layer=mapnik&amp;marker=40.66076636052815%2C-73.96528314464291" style="border: 1px solid black"></iframe></p>
+    <p style="text-align:left"><iframe width="500" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=-73.98174047470094%2C40.65239921467547%2C-73.9488458633423%2C40.66914863217685&amp;layer=mapnik&amp;marker=40.66076636052815%2C-73.96528314464291" style="border: 1px solid black"></iframe></p>
 </div>
 
 **Please don't drink and drive.**  \
