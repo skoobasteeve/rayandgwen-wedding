@@ -1,17 +1,17 @@
 ---
-title: "Ray and Gwen's 2021 Wedding Exxtravaganza!"
+title: "Gwen & Ray are getting married!"
 layout: splash
 permalink: /rsvp-success/
 author_profile: false
 masthead: false
 header:
   overlay_color: "#000"
-  overlay_filter: "0.5"
-  overlay_image: /assets/images/banner.jpg
-excerpt: "Join us in Brooklyn, NY!"
+  overlay_filter: "0.4"
+  overlay_image: /assets/images/banner-sketch.jpg
+excerpt: "November 13, 2021 <br> Brooklyn, NY"
 ---
 
-# Thanks for your RSVP!
+# You did it! Thanks for your RSVP!
 Go back [home](../index.html)
 
 

@@ -1,13 +1,14 @@
 ---
-title: "Ray and Gwen's 2021 Wedding Exxtravaganza!"
+title: "Gwen & Ray are getting married!"
 layout: splash
 permalink: /rsvp/
 author_profile: false
 masthead: false
 header:
   overlay_color: "#000"
-  overlay_filter: "0.5"
-  overlay_image: /assets/images/banner.jpg
+  overlay_filter: "0.4"
+  overlay_image: /assets/images/banner-sketch.jpg
+excerpt: "November 13th 2021 <br> Brooklyn, NY"
 ---
 
  [<- Home](../index.html)
