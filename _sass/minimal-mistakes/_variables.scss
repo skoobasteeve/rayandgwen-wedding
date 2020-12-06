@@ -28,9 +28,15 @@ $times: Times, serif !default;
 $bodoni: "Bodoni MT", serif !default;
 $calisto: "Calisto MT", serif !default;
 $garamond: Garamond, serif !default;
+$didone: 'Antic Didone', serif;
+$amiri: 'Amiri', serif;
+$castoro: 'Castoro', serif;
+$nanum: 'Nanum Myeongjo', serif;
+$nanum-bold: 'Nanum Myeongjo:700', serif;
+$playfair: 'Playfair Display', serif;
 
-$global-font-family: $sans-serif !default;
-$header-font-family: $sans-serif !default;
+$global-font-family: $nanum-bold !default;
+$header-font-family: $castoro !default;
 $caption-font-family: $serif !default;
 
 /* type scale */
