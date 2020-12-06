@@ -1,5 +1,5 @@
 ---
-title: "Gwen & Ray are getting married!"
+title: "Ray & Gwen are getting married!"
 layout: splash
 author_profile: false
 masthead: false
