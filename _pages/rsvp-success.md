@@ -9,6 +9,8 @@ header:
   overlay_filter: "0.4"
   overlay_image: /assets/images/banner-sketch.jpg
 excerpt: "November 13, 2021 <br> Brooklyn, NY"
+sitemap: false
+disallow: true
 ---
 
 # You did it! Thanks for your RSVP!

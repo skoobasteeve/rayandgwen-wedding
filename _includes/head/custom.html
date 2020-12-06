@@ -1,2 +1,6 @@
 <link rel="preconnect" href="https://fonts.gstatic.com">
 <link href="https://fonts.googleapis.com/css2?family=Amiri&family=Antic+Didone&family=Castoro&family=Nanum+Myeongjo:wght@400;700&family=Playfair+Display:wght@600&display=swap" rel="stylesheet"> 
+
+{% if page.disallow %}
+  <meta name="robots" content="noindex, nofollow">
+{% endif %}
