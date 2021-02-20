@@ -52,14 +52,11 @@ Walk through the entrance and straight across the bike path. Follow the lamp pos
 
 **Please don't drink and drive.**  \
 Take the subway or split a taxi so you can drink without consequences! \
-If you plan on driving please contact us directly as the venue only has a limited number of parking spaces.
+If you plan on driving please contact us directly as the venue has a limited number of parking spaces.
 {: .notice--warning}
 {: .text-center}
 
 ## Guest Accomodations to come...
 {: .text-left}
-
-* Hotel Block (TBD)
-* AirBnB
 
 
