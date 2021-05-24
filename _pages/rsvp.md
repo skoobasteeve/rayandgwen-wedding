@@ -24,7 +24,7 @@ excerpt: "November 13th 2021 <br> Brooklyn, NY"
     <label>Guest #1 <input type="text" name="name" required/></label>
   </p>
   <p>
-    <label for="mealpref-01">Dinner Preference</label>
+    <label for="mealpref-01" required>Dinner Preference</label>
     <select class="form-control" id="mealpref-01" name="mealpref-01" required>
           <option value="">Choose one...</option>
           <option value="beef">Beef</option>
