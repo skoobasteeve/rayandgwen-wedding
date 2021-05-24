@@ -14,5 +14,8 @@ excerpt: "November 13, 2021 <br> Brooklyn, NY"
  [<- Home](../index.html)
 {: .text-left}
 
-# Stay tuned!
+# Registry
+{: .text-center}
+
+### [Crate & Barrel](https://www.crateandbarrel.com/gift-registry/gwen-breitstein-and-ray-lyon/r6215352)
 {: .text-center}
