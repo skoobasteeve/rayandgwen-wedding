@@ -21,7 +21,7 @@ excerpt: "November 13, 2021 <br> Brooklyn, NY"
 [**Prospect Park Boathouse**](https://goo.gl/maps/7vJWAH4iFbyKeaq86) \
 **November 13th, 2021** \
 **4:00pm - 10:00pm** \
-*Dress is cocktail attire*
+*Cocktail attire*
 {: .text-left}
 
 <div class="resp-container">
