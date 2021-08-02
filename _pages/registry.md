@@ -20,7 +20,5 @@ excerpt: "November 13, 2021 <br> Brooklyn, NY"
 ### [Crate & Barrel](https://www.crateandbarrel.com/gift-registry/gwen-breitstein-and-ray-lyon/r6215352)
 {: .text-center}
 
-<br>
-
-*more coming soon...*
+### [Honeymoon Fund](https://www.honeyfund.com/wedding/lyon-breitstein-11-13-2021)
 {: .text-center}
