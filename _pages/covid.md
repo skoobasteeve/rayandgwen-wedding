@@ -16,7 +16,7 @@ excerpt: "November 13th 2021 <br> Brooklyn, NY"
 
 # Submit your COVID-19 Vaccine Card  
 
-<form name="rsvp" netlify-honeypot="bot-field" method="POST" data-netlify="true" action="/rsvp-success/" netlify>
+<form name="vaccine-submission" netlify-honeypot="bot-field" method="POST" data-netlify="true" action="/covid-success/" netlify>
   <p class="hidden">
     <label>Fill this out!: <input name="bot-field" /></label>
   </p>

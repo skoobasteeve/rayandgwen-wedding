@@ -1,7 +1,7 @@
 ---
 title: "Gwen & Ray are getting married!"
 layout: splash
-permalink: /rsvp-success/
+permalink: /covid-success/
 author_profile: false
 masthead: false
 header:
@@ -12,10 +12,7 @@ excerpt: "November 13, 2021 <br> Brooklyn, NY"
 sitemap: false
 disallow: true
 ---
-[<- Home](../index.html)
+ [<- Home](../index.html)
 {: .text-left}
 
-# You did it! Thanks for your RSVP!
-
-
-![success](../assets/images/success.jpg){: height="800px" width="800px"}
+# Thank you for submitting!
