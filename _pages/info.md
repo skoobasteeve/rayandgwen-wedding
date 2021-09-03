@@ -16,6 +16,11 @@ excerpt: "November 13, 2021 <br> Brooklyn, NY"
 # Wedding Info
 {: .text-center}
 
+**COVID-19 UPDATE**  \
+In accordance with New York City law all guests are required to be vaccinated and show **proof of vaccination** with a matching ID before entering the venue. \
+{: .notice--warning}
+{: .text-center}
+
 ## Ceremony and Reception
 {: .text-left}
 [**Prospect Park Boathouse**](https://goo.gl/maps/7vJWAH4iFbyKeaq86) \
