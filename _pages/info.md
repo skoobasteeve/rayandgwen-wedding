@@ -18,7 +18,7 @@ excerpt: "November 13, 2021 <br> Brooklyn, NY"
 
 **COVID-19 UPDATE**  \
 In accordance with New York City law all guests are required to be vaccinated and show **proof of vaccination** with a matching ID before entering the venue. \
-Please submit a photo of your COVID vaccindation card using [this form](../covid) before the wedding. Thank you!
+Please submit a photo of your COVID vaccination card using [this form](../covid) before the wedding. Thank you!
 {: .notice--warning}
 {: .text-center}
 
