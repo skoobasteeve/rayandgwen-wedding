@@ -12,7 +12,6 @@ excerpt: "November 13, 2021 <br> Brooklyn, NY"
 sitemap: false
 disallow: true
 ---
- [<- Home](../index.html)
-{: .text-left}
 
 # Thank you for submitting!
+[Back to form](../covid)
