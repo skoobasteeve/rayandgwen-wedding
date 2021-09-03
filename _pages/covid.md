@@ -30,6 +30,6 @@ excerpt: "November 13th 2021 <br> Brooklyn, NY"
     <label>Questions / Comments <input type="text" name="comments" /></label>
   </p>
   <p>
-    <button type="submit" class="btn btn--primary">Send</button>
+    <button type="submit" class="btn btn--primary">Submit</button>
   </p>
 </form>
