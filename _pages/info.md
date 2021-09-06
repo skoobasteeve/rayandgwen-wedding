@@ -67,7 +67,7 @@ If you plan on driving please contact us directly as the venue has a limited num
 ## Guest Accomodations
 {: .text-left}
 
-We've reserved a block of rooms at a discounted rate for the [Nu Hotel Brooklyn](https://www.nuhotelbrooklyn.com/), details below:
+We've reserved a block of rooms at a discounted rate for the [Nu Hotel Brooklyn](http://bookings.ihotelier.com/bookings.jsp?groupID=3216251&hotelID=112950), details below:
 
 **Group name**:  Breitstein - Lyon Wedding \
 **Dates**: November 10th - November 14th, 2021 \
