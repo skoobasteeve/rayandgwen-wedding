@@ -1,6 +1,6 @@
 # Ray and Gwen's Wedding Site
 ### The wedding is over and was a complete success! Thanks to everyone who showed up.
-### The site will remain active for historical value :)
+### The site will remain active for historical value.
 
 [https://www.rayandgwenwedding.com](https://www.rayandgwenwedding.com)
 
