@@ -1,5 +1,5 @@
 ---
-title: "Ray & Gwen are getting married!"
+title: "Ray & Gwen got married!"
 layout: splash
 author_profile: false
 masthead: false
@@ -9,7 +9,7 @@ header:
   overlay_image: /assets/images/banner-sketch.jpg
 excerpt: "November 13, 2021 <br> Brooklyn, NY"
 intro: 
-  - excerpt: "We're so excited for everyone to join us at our wedding this fall! You'll find links below for everything you need. If you have any questions not answered here, head over to the [**contact**](/contact/) page and drop us a note."
+  - excerpt: "Thank you all for attending our wedding. By all accounts it was a roaring success!"
 feature_row:
   - image_path: assets/images/feature-image-01.jpg
     alt: "ray and gwen 01"
