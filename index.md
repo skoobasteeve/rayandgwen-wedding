@@ -17,21 +17,21 @@ feature_row:
     url: "info"
     btn_label: "Get the details"
     btn_class: "btn--primary"
-    excerpt: "Need to know where to go? What time to show up?"
+    excerpt: "Need to know where you went? What time you showed up?"
   - image_path: /assets/images/feature-image-02.jpg
     alt: "ray and gwen 02"
     title: "RSVP"
     url: "rsvp"
     btn_label: "Let us know"
     btn_class: "btn--primary"
-    excerpt: "Planning to join us for the celebration? Not able to attend?"
+    excerpt: "Want to tell us how great of time you had?"
   - image_path: /assets/images/feature-image-03.jpg
     alt: "ray and gwen 02"
     title: "Registry"
     url: "registry"
     btn_label: "See where we registered"
     btn_class: "btn--primary"
-    excerpt: "Struggling to find a gift worthy of our union?"
+    excerpt: "Want to buy us another gift?"
 ---
 
 {% include feature_row id="intro" type="center" %}
